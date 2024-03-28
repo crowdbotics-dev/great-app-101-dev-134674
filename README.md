@@ -59,6 +59,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [node-experimental-js-module](utils/hello-world)
+- [random-module](modules/welcome-screen)
 
 # Getting started: Frontend
 
